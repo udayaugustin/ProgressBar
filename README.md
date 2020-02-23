@@ -1,7 +1,7 @@
 This packages adds multi color segment bar in Xamarin forms. This is purely written using xamarin forms control.
 
 To Consume:
-* Add the nugget package "ProgressBarWithSegment" to Xamarin Forms Project. No need to add in the platform specific project.
+* Add the nugget package "MultiColor.ProgressBar" to Xamarin Forms Project. No need to add in the platform specific project.
 * Declare the name space in the xaml. xmlns:progressBar="car-namespace:ProgressBar;assembly=ProgressBar"
 * Use the below xaml to add the progress bar control to your view.
 

@@ -5,7 +5,7 @@ To Consume:
 * Declare the name space in the xaml. xmlns:progressBar="car-namespace:ProgressBar;assembly=ProgressBar"
 * Use the below xaml to add the progress bar control to your view.
 
-
+```xml
 <progressBar:ProgressBar ProgressBarHeight="10" ProgressBarWidth="250" CornerRadius="5" VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
 <progressBar:ProgressBar.BarList>
 <progressBar:BarSegment BarWidth="10*" BarColor="Green"/>
@@ -15,3 +15,4 @@ To Consume:
 <progressBar:BarSegment BarWidth="10*" BarColor="Red"/>
 </progressBar:ProgressBar.BarList>
 </progressBar:ProgressBar>
+```

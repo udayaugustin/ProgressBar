@@ -17,5 +17,8 @@ To Consume:
 </progressBar:ProgressBar>
 ```
 
+Note:
+Divide the space between segment bar. Sum of all the segment bar width should be 100. 
+
 Screenshot:
 ![Screenshot](https://github.com/udayaugustin/ProgressBar/blob/master/Screenshot%202020-02-23%20at%205.35.29%20PM.png)

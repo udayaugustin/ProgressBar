@@ -1,3 +1,5 @@
+# Multi color progress bar for Xamarin forms
+
 This packages adds multi color segment bar in Xamarin forms. This is purely written using xamarin forms control.
 
 To Consume:
